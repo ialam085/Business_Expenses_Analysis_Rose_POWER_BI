@@ -1,4 +1,4 @@
-## ![#1589F0](https://placehold.co/18x18/1589F0/1589F0.png) Analysis for Various Business Expenses (10 Years) | Rose IT Solutions Pvt. Ltd. (2010 - 2019)
+## ![#1589F0](https://placehold.co/18x18/1589F0/1589F0.png) Business Expenses Analysis over a Decade (2010-2019) | Rose IT Solutions Pvt. Ltd.
 
 The main objective of the attached dashboard is to provide an analysis of various business expenses over a period of 10 years (2010-2019) for Rose IT Solutions Pvt Ltd, highlighting total expenses, individual cost components (such as rent, electricity, office maintenance canteen, etc.), and cost per head. This project is to help an organization to maintain and reduce various business expenses especially when employee strength increases.
 
