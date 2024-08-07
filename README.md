@@ -5,8 +5,8 @@
 
 ### ◻️ Tools used
 
->+ Microsoft Excel
->+ Microsoft Power BI
+>- Microsoft Excel
+>- Microsoft Power BI
 
 ### ◻️ Visualizations Includes
 
@@ -31,4 +31,4 @@
 
 ### ◻️ Images
 
-![Business Expenses Analysis](https://github.com/ialam085/Business_Expenses_Analysis_ROSE/blob/main/Various_Office_Expenses_ROSE-1.png)
+>![Business Expenses Analysis](https://github.com/ialam085/Business_Expenses_Analysis_ROSE/blob/main/Various_Office_Expenses_ROSE-1.png)
