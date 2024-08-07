@@ -28,3 +28,7 @@
 >- **Cost per Head**: Calculate and display the cost per head of gross business expenses over the years.
 >- **Employee Count**: Track the average number of employees each year.
 >- **Visualize Key Expense Components**: Highlight the expenses of rent versus electricity by year for a focused comparison.
+
+### ◻️ Images
+
+![Business Expenses Analysis](https://github.com/ialam085/Business_Expenses_Analysis_ROSE/blob/main/Various_Office_Expenses_ROSE-1.png)
