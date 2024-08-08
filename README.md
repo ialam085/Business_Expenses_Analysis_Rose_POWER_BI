@@ -28,13 +28,12 @@
 
 ### ◻️ Key Insights
 
->- **Analyze Gross Annual Expenses**: Visualize the annual business expenses over the 10-year period.
->- **Summarize Total Expenses**: Provide a total expense summary for each category, such as rent, electricity, canteen, office maintenance etc.
->- **Compare Expenses**: Compare different expense categories over the years to identify trends and significant changes.
->- **Detail Yearly Expenses**: Present a detailed breakdown of expenses by year for various categories.
->- **Cost per Head**: Calculate and display the cost per head of gross business expenses over the years.
->- **Employee Count**: Track the average number of employees each year.
->- **Visualize Key Expense Components**: Highlight the expenses of rent versus electricity by year for a focused comparison.
+>- **Gross Annual Expenses**: Total business expenses fluctuated over the decade, peaking at 36M in 2018.
+>- **Total Expenses Summary**: Rent and electricity were the largest expense categories, totaling 145M and 37M, respectively.
+>- **Expense Comparison**: Rent consistently increased, while electricity costs showed moderate growth, highlighting a significant rise in rent over the years.
+>- **Yearly Expense Breakdown**: Rent and electricity dominated annual expenses, with notable spikes in rent from 2016 to 2019.
+>- **Cost per Head**: The cost per employee varied slightly each year, averaging around 73K.
+>- **Employee Count**: The average number of employees steadily increased from 122 in 2010 to 519 in 2019.
 
 ### ◻️ Images
 
