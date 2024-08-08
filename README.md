@@ -3,7 +3,7 @@
 
 >The main objective of the attached dashboard is to provide an analysis of various business expenses over a period of 10 years (2010-2019) for Rose IT Solutions Pvt Ltd, highlighting total expenses, individual cost components (such as rent, electricity, office maintenance canteen, etc.), and cost per head. This project is to help an organization to maintain and reduce various business expenses especially when employee strength increases.
 
-### ◻️ Tools used
+### ◻️ Tech Stack
 
 >- Microsoft Excel
 >- Microsoft Power BI
@@ -14,7 +14,6 @@
 >- Pie charts
 >- Column charts
 >- Line charts
->- Area charts
 >- Slicer
 >- Table
 >- Card
