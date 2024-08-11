@@ -1,4 +1,4 @@
-## 🔳 Business Expenses Analysis over a Decade (2010-2019) | Rose IT Solutions Pvt. Ltd.
+## 🔳 Business Expenses Analysis over a Decade (2010-2019) | Rose IT Solutions Pvt. Ltd. (using POWER-BI)
 
 ### ◻️ Objective
 
