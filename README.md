@@ -2,6 +2,8 @@
 
 ${\color{red}Go\ to}$ 🔗 [Dashboard](https://github.com/ialam085/Business_Expenses_Analysis_Rose_POWER_BI/blob/main/Various_Office_Expenses_ROSE.pdf)
 
+${\color{red}Go\ to}$ 🔗 [Database](https://github.com/ialam085/Business_Expenses_Analysis_Rose_POWER_BI/blob/main/ROSE_Office_Exp._Analysis.csv)
+
 ### ◻️ Objective
 
 >The main objective of the attached dashboard is to provide an analysis of various business expenses over a period of 10 years (2010-2019) for Rose IT Solutions Pvt Ltd, highlighting total expenses, individual cost components (such as rent, electricity, office maintenance canteen, etc.), and cost per head. This project is to help an organization to maintain and reduce various business expenses especially when employee strength increases.
