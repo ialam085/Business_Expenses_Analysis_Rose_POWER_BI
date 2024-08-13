@@ -27,6 +27,19 @@
 >- Table
 >- Card
 
+### ◻️ Analysis includes
+
+>- Total Gross Expenses
+>- Major Expense Category
+>- Electricity Costs
+>- Canteen and Food Expenses
+>- Miscellaneous Expenses
+>- Petty Cash Expenditure
+>- AC Maintenance and Electrical Spares
+>- Telecommunication Costs
+>- Annual Variation in Rent
+>- Employee Growth
+
 ### ◻️ Key Insights
 
 >- **Gross Annual Expenses**: Total business expenses fluctuated over the decade, peaking at 36M in 2018.
