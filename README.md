@@ -1,5 +1,6 @@
-## 🔳 Business Expenses Analysis over a Decade (2010-2019) | Rose IT Solutions Pvt. Ltd. (using POWER-BI)
-Go to 🔗 [Visualization File](https://github.com/ialam085/Business_Expenses_Analysis_Rose_POWER_BI)
+## 🔳 Business Expenses Analysis over a Decade (2010-2019) | Rose IT Solutions Pvt. Ltd. ${\color{blue}(using\ POWER-BI)}$
+
+${\color{red}Go\ to}$ 🔗 [Visualization File](https://github.com/ialam085/Business_Expenses_Analysis_Rose_POWER_BI/blob/main/Various_Office_Expenses_ROSE.pdf)
 
 ### ◻️ Objective
 
